@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#To Run This Script, Use this command 
+# bash <(wget -qO- https://raw.githubusercontent.com/Tsadoila/ubuntu/main/python_mysql_gunicorn_nginx_setup.sh)
+
 while true; do
     clear
     echo "Choose what you want to install:"
